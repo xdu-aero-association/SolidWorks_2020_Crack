@@ -1,5 +1,7 @@
 # SOLIDWORKS 2020 破解注册补丁
 
+## torrent文件SOLIDWORKS 2020完整版种子文件，建议使用迅雷下载
+
 0. Before installation, block the outgoing Internet access by means of Windows 
    Firewall or cord plug. Check .NET Framework 3.5 and 4.0 are installed. If
    .NET Framework 3.5 (including 2.0) is not installed, go to 
